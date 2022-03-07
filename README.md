@@ -1,5 +1,5 @@
 ## Tugas2_PBO_Java_OOP-BalokTabung
-Pengumpulan tugas 2 program konversi suhu menggunakan bahasa Java ( Praktikum Pemrograman Berorientasi Objek )
+Pengumpulan tugas 2 program menghitung Balok dan Tabung menggunakan bahasa Java ( Praktikum Pemrograman Berorientasi Objek )
 ## IDENTITAS
 Nama  : Muhammad Raehan Parikesit
 
@@ -30,6 +30,6 @@ dan keliling lingkaran serta volume dan luas permukaan tabung.
 
 
 ## NOTE
-untuk file Main.java dan Konversi.Java ada pada file src\pbo\tugas\BalokTabung
+untuk file Main.java dan class lain ada pada file src\pbo\tugas\BalokTabung
 
 
