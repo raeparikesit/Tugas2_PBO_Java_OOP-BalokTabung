@@ -30,6 +30,6 @@ dan keliling lingkaran serta volume dan luas permukaan tabung.
 
 
 ## NOTE
-untuk file Main.java dan class lain ada pada file src\pbo\tugas\BalokTabung
+untuk file Main.java dan class lain ada pada file src\pbo\tugas\baloktabung
 
 
